@@ -529,3 +529,26 @@ git merge eff544f # Fusionará en un nuevo commit la historia de master con el m
 	• Utilizar nombres cortos y descriptivos
 	• Utilizar nombres en minuscula separados por guiones o barra diagonal
 	• Utilizar prefijos, Evitar nombres genericos
+## Convenciones para un commit
+	- Comenzar con una oración que resuma el cambio realizado
+	- Limitar la longitud del mensaje a 75 caracteres
+	- Agregar detalles adicionales si es necesario
+	- Incluir el número de tarea en el mensaje
+	- Usar verbos precisos como "feat", "fix", "add" o "delete".
+
+##Convenciones para nombrar branches
+	- Utilizar nombres cortos y descriptivos
+	- Utilizar nombres en minúsculas separados por guiones "-" o barras diagonales "/".
+	- Utilizar prefijos para indicar el tipo de branch
+	- Evitar nombres genéricos.
+
+## Como documentar un pull request
+	- Título. Breve y descriptivo del cambio propuesto.
+	- Descripción. Proporcionar una descripción sobre lo que se espera se resuelva y los motivos detrás del cambio.
+	- Capturas de pantalla. Proporcionar capturas para ilustrarlos cambios propuestos.
+	- Problemas relacionados. Proporcione un enlace al problema.
+	- Etiquetas. Etiquetar adecuadamente la solicitud de cambio.
+
+## ¿Qué es el Code Review?
+	Ayuda a mejorar la calidad del código, reduce el número de errores y facilita la colaboración entre los miembros del equipo.
+
